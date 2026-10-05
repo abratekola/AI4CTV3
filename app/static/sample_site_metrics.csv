@@ -1,0 +1,4 @@
+site_code,report_date,enrolled_total,enrollment_30d,enrollment_target_30d,screen_fail_pct,retention_pct,missed_visit_pct,deviations_30d,major_deviations_30d,overdue_crfs,open_queries,median_query_age_days,overdue_sae,unreviewed_aes,safety_training_overdue,ip_days_stock,stockout_events_90d,temp_excursions_30d,lab_tat_hours,rejected_samples_pct,critical_result_overdue,staff_vacancy_pct,training_overdue_count,turnover_90d,monitoring_actions_overdue,days_since_monitoring
+ETH-01,2026-10-31,96,14,18,19,95,4,3,0,5,8,8,0,0,0,43,0,0,25,1.2,0,0,0,0,1,48
+ETH-02,2026-10-31,61,6,18,34,89,11,8,2,24,35,27,1,5,1,8,1,0,74,7,2,25,4,1,7,119
+ETH-03,2026-10-31,85,14,16,20,95,4,2,0,6,9,9,0,1,0,31,0,0,29,2,0,8,1,0,1,52
